@@ -19,8 +19,8 @@ used JS compress to make a quicker load time with my JS
 
 ## Repository
 
-- [Project Repo](https://github.com/kpac567/BudgetTraker)
-- [Budget Tracker](https://budgetrk.herokuapp.com)
+- [Project Repo](https://github.com/kpac567/port3)
+- [Budget Tracker](https://kevinpaczkowski.com)
 
 ## Created By Kevin Paczkowski
 ![New Project (1)](https://user-images.githubusercontent.com/71659832/100169632-edd18900-2e91-11eb-8f12-07328b579f4d.png)
